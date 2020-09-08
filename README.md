@@ -1,3 +1,1 @@
-# templates
-
-some texts used in somewhere
+# [yudemoe](https://github.com/yudemoe) / templates
