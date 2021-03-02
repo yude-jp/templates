@@ -12,4 +12,4 @@ Member ロールを付与されると、すべてのチャンネルが閲覧・�
 2. チャットスパムを行わないでください。
 
 ## 📎 リンク
-[GitHub Organization](https://github.com/yudemoe), [Twitter](https://twitter.com/yude_jp), [LINE オープンチャット](https://line.me/ti/g2/mi36ZEsJkIo9BLqYg1sQFg)
+[GitHub Organization](https://github.com/yude-jp), [Twitter](https://twitter.com/yude_jp), [LINE オープンチャット](https://line.me/ti/g2/mi36ZEsJkIo9BLqYg1sQFg)
